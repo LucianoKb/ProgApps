@@ -13,7 +13,7 @@ public class main {
 		e = "Email@prueba.com";
 		DtFecha fn = new DtFecha(1,1,1);
 		
-		System.out.print("hola");
+		
 		Usuario prueba = new Usuario( ni,  n, ap,  e, fn);
 		
 		
